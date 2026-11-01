@@ -1,0 +1,24 @@
+
+:root {
+  font-family: Arial, sans-serif;
+  color: #4a2936;
+  background-color: #e8cbd2;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background-color: #e8cbd2;
+}
+
+#app {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: #e8cbd2;
+}
